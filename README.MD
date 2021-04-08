@@ -6,7 +6,7 @@ I love Programming and I love solving problem
 - [Birthday](#birthday)  
 
 
-  
-Birthday
-=======
+
+## Birthday  
+
 ## koe
