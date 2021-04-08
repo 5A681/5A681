@@ -2,5 +2,7 @@
 ## My name is phongphat Srithong
 
 I love Programming and I love solving problem
-!(BiRTHDAY)
-### BiRTHDAY
+### Index
+- [Birthday](birthday)
+
+## Birthday
