@@ -3,7 +3,7 @@
 
 I love Programming and I love solving problem
 ### Index
-- [Birthday](#koe)
+- [Birthday](#birthday)
 
 ## Birthday
 ## koe
