@@ -3,5 +3,5 @@
 
 I love Programming and I love solving problem
 ### Index
-- [BiRTHDAY](#birthday)
+- [BiRTHDAY](#BiRTHDAY)
 ### BiRTHDAY
