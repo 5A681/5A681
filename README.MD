@@ -3,6 +3,6 @@
 
 I love Programming and I love solving problem
 ### Index
-- [Birthday](#birthday)
+- [Birthday](birthday)
 
 ## Birthday
