@@ -8,6 +8,13 @@ I love Programming and I love solving problem
 
 <table style="background:red">
     <tr>
-        <th style="background:red">koe</th>
+        <th>koe</th>
+        <th>koe</th>
+        <th>koe</th>
+    </tr>
+    <tr>
+        <td>koe</td>
+        <td>koe</td>
+        <td>koe</td>
     </tr>
 </table>
