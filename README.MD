@@ -19,4 +19,6 @@ I love Programming and I love solving problem
     </tr>
     
 </table>
-`#ff0000`
+```diff
+- text in red
+```
