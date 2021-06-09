@@ -6,7 +6,7 @@ I love Programming and I love solving problem
 ### Birthday  16 November 1998
 
 
-<table style="background-color:red">
+<table style="background:red">
     <tr>
         <th>koe</th>
     </tr>
