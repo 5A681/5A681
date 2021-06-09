@@ -8,6 +8,6 @@ I love Programming and I love solving problem
 
 <table style="background:red">
     <tr>
-        <th>koe</th>
+        <th style="background:red">koe</th>
     </tr>
 </table>
