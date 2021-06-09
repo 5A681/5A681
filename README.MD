@@ -21,4 +21,4 @@ I love Programming and I love solving problem
 </table>
 ```diff
 - text in red
-```
+...
