@@ -3,7 +3,7 @@
 
 **Major** Computer and Communication Engineering
 
- <h1 style="color:red">Birthday  16 November 1998</h1>
+ <h1 style="color:red;">Birthday  16 November 1998</h1>
 
  #### My Programming Languages
 
