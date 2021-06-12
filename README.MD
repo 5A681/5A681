@@ -5,7 +5,7 @@
 
  <span>Birthday  16 November 1998
 
- #### My Programming Languages
+<h3> My Programming Languages</h3>
 
 <table>
     <tr>
@@ -25,7 +25,7 @@
 </table>
 
 
-#### Controller Skills
+<h3> Controller Skills</h3> 
 
 <table>
     <tr>
@@ -41,7 +41,7 @@
         <td><img src="https://user-images.githubusercontent.com/46487715/121659171-3e29d480-cacc-11eb-9956-ca1137b5aa10.png" alt="PYTHON" width="100px"/></td>
     </tr>
 </table>
-#### Protocol Skills
+<h3>Protocol Skills</h3>
 <table>
     <tr>
         <th>MQTT</th>
